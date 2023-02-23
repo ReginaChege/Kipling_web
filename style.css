@@ -1,0 +1,50 @@
+
+
+ .navig{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+   }
+ 
+ .navigation{
+   margin: left 5px; 
+   display: flex;
+ }
+ .log{
+   padding: 5px;
+   margin: 0px;
+ }
+ #blog{
+   padding: 5px;
+   margin: 0px;
+ }
+ #acc{
+   padding: 5px;
+   margin: 0px;
+   }
+   #bag{
+      padding: 5px;
+      margin: 0px;
+    }
+    #ab{
+      padding: 5px;
+      margin: 0px;
+    }
+    body{
+      background-image: url(backpack.webp);
+      background-repeat: no-repeat;
+      
+    
+    }
+    button{
+     padding: 15px;
+     font-size: 10px;
+     font-weight: bold;
+     background-color: #a9e34b;
+     border-radius: 20px;
+    }
+    .container{
+      display: flex;
+
+    }
+   
