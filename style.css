@@ -8,7 +8,9 @@
  
  .navigation{
    margin: left 5px; 
-   display: flex;
+   margin-top: -5%;
+   padding: 10px 10px;
+   margin-right: 40px;
  }
  .log{
    padding: 5px;
@@ -31,8 +33,9 @@
       margin: 0px;
     }
     body{
-      background-image: url(backpack.webp);
+      background-image: url(kpling20.avif);
       background-repeat: no-repeat;
+      background-size: cover;
       
     
     }
@@ -47,4 +50,9 @@
       display: flex;
 
     }
-   
+    
+   nav a{
+    margin-left: 40%;
+    text-decoration: none;
+    margin-right: 30px;
+   }
